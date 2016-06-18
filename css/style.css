@@ -1,0 +1,110 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	
+}
+.big4{
+		font-size:18px;
+		font-weight:200;
+		padding:22px;
+		word-wrap:break-word;
+		word-spacing:4px;
+		text-align:left;
+}
+.help{
+	height:200px;
+	width:320px;
+	text-align:center;
+}
+.lol{
+	background-color:#d3d3d3;
+}
+.social-page{
+	background-color:#e3e3e3;
+	height:170px;
+	font-size:16px;
+	font-weight:600;
+	margin-top:100px;
+	border-top:2px solid #d3d3d3;
+}
+.grp{
+	height:40px;
+	width:40px;
+	margin-top:5px;
+	margin-left:5px;
+}
+ul{
+	list-style:none;
+}
+#address{
+	float:right;
+	margin-top:10px;
+}
+#highlight{
+	color:#d9534f;
+	font-size:20px;
+}
+#soso{
+	float:left;
+}
+#content{
+	margin-bottom:10px;
+}
+.blogger-img{
+	height:80px;
+}
+.read-more{
+	float:right;
+	margin:10px;
+}
+#maps{
+	margin-top:30px;
+	margin-bottom:30px;
+	border:px #e3e3e3 dotted;
+	border-radius:10px;
+	height:300px;
+}
+.comment-img{
+	height:40px;
+	margin-right:10px;
+}
+.comment{
+	float:right;
+	margin:10px;
+}
+.comment-section{
+	border:2px #e3e3e3 dotted;
+	border-radius:10px;
+	padding:10px;
+	margin-bottom:20px;
+}
+.blog-header{
+	color: #d9534f;
+}
+.owner{
+	font-size:15px;
+}
+.user-img{
+	height:50px;
+	width:60px;
+}
+.writing-pad{
+	margin:10px;
+	padding:10px;
+}
+.member-info{
+	float:right;
+	margin-right:20px;
+}
+.developer-img{
+	height:200px;
+	width:200px;
+	box-shadow:0 0 0 8px black;
+	-webkit-box-shadow:0 0 0 8px black;
+	margin:30px;
+}
+.developer-section{
+	text-align:center;
+}
